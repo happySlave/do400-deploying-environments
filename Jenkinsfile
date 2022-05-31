@@ -38,6 +38,7 @@ jre:latest \
 -Dquarkus.container-image.username=$QUAY_USR \
 -Dquarkus.container-image.password="$QUAY_PSW" \
 -Dquarkus.container-image.push=true
+'''
 }
 }
 
